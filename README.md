@@ -1,4 +1,4 @@
-# notenest
+# NoteNest
 
 A simple website to store notes, assignments, PPTs, and other files organized by semester and subject.
 
