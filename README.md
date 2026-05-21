@@ -11,6 +11,4 @@ A simple website to store notes, assignments, PPTs, and other files organized by
 
 Files are saved in your browser using IndexedDB — they stay on your device and are not uploaded to any server.
 
-## Customize subjects
 
-Edit `data.js` to change subject names for each semester.
