@@ -5,7 +5,7 @@ A semester-wise study platform for students to store notes, assignments, present
 
 Works on phones, tablets, and desktops — open in any modern browser (Chrome, Safari, Firefox, Edge).
 
-1. Open `index.html` in your browser (or run `python -m http.server 8080`).
+1. Open note-nest-eta-five.vercel.app
 2. **Create** a unique 5-character username (e.g. `alan1`) or **Sign in** with one you already created — no password. Usernames cannot be repeated on this device.
 3. Pick a semester, subject, category, and module (1–4).
 4. Upload and search files — everything stays on your device.
